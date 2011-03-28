@@ -1,4 +1,4 @@
-It took less time to write this function than it did to find one that wasn't more complex than I felt necessary. 
+It took less time to write this function than it did to find one that wasn't more complex than I felt necessary. Avoid bouncy animation if you respect your users. 
 
 Basic use:
 
