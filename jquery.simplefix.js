@@ -3,8 +3,8 @@
   
     // Get element's original attributes (to restore)
     var $elementToFix           = $(this); 
-    var $elementInitialOffset   = Math.floor($elementToFix.offset().top);			
-    var $elementInitialPos      =  $($elementToFix).css("position");
+    var $elementInitialOffset   = $elementToFix.offset().top;			
+    var $elementInitialPos      = $($elementToFix).css("position");
     
     $(window).scroll(function(){
     
