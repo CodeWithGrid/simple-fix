@@ -3,7 +3,6 @@ It took less time to write this function than it did to find one that wasn't mor
 Basic use:
 
 1. Make sure you're including jQuery
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
 
 2. Include the simplefix.js script
 <script type="text/javascript" src="jquery.simplefix.js"></script>	
