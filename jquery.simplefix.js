@@ -8,10 +8,10 @@
     
     $(window).scroll(function(){
     
-    // Figure out when it hits the top
+    // Figure out how much of the doc has been scrolled
     var $wrapperScrollTop       = $(document).scrollTop();
     
-    // Fix it in place
+    // If things match up, fix the element in place
     if($wrapperScrollTop > $elementInitialOffset){
       $($($elementToFix)).css({
         "position"    : "fixed",
